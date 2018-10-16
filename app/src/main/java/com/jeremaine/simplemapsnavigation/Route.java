@@ -1,4 +1,4 @@
-package com.gerry.simplemapsnavigation;
+package com.jeremaine.simplemapsnavigation;
 
 import com.google.android.gms.maps.model.LatLng;
 

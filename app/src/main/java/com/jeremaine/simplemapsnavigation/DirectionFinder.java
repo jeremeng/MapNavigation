@@ -1,4 +1,4 @@
-package com.gerry.simplemapsnavigation;
+package com.jeremaine.simplemapsnavigation;
 
 import android.os.AsyncTask;
 import android.util.Log;

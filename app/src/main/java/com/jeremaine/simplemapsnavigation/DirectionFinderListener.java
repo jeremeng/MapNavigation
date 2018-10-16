@@ -1,4 +1,4 @@
-package com.gerry.simplemapsnavigation;
+package com.jeremaine.simplemapsnavigation;
 
 import java.util.List;
 

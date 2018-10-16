@@ -1,4 +1,4 @@
-package com.gerry.simplemapsnavigation;
+package com.jeremaine.simplemapsnavigation;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
